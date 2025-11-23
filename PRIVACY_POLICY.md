@@ -1,7 +1,7 @@
 # Privacy Policy
 _Last updated: 2025-11-23_
 
-Blocky Defendy (“the App”) is developed by [Your Name / Studio Name].  
+Blocky Defendy (“the App”) is developed by Blocky Defendy Studios.  
 We take your privacy seriously. This Privacy Policy explains how the App handles your data.
 
 ---
